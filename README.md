@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OM Lounge Booking Website
 
 A service booking website built with **Next.js, TypeScript, Redux Toolkit, and TailwindCSS**.
@@ -215,3 +216,6 @@ Possible enhancements:
 
 Quan Nguyen
 Frontend Developer
+=======
+# OM-SPA
+>>>>>>> 646404a79166014828e5e174114ddfd6d66faba5
