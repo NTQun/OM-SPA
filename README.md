@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # OM Lounge Booking Website
 
 A service booking website built with **Next.js, TypeScript, Redux Toolkit, and TailwindCSS**.
@@ -147,7 +148,7 @@ types/
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/om-lounge-booking
+https://github.com/NTQun/OM-SPA.git
 ```
 
 Install dependencies
@@ -217,5 +218,7 @@ Possible enhancements:
 Quan Nguyen
 Frontend Developer
 =======
+
 # OM-SPA
->>>>>>> 646404a79166014828e5e174114ddfd6d66faba5
+
+> > > > > > > 646404a79166014828e5e174114ddfd6d66faba5
