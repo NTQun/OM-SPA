@@ -5,7 +5,7 @@ import { closeCart, openBooking } from "@/store/ui/uiSlice";
 import { RootState } from "@/store";
 import CartItem from "./cart-item";
 import { useMemo } from "react";
-import SidePanel from "../ui/side-panel";
+import SidePanel from "@/components/ui/side-panel";
 
 export default function CartPanel() {
   const dispatch = useDispatch();

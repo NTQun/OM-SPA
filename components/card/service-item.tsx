@@ -1,5 +1,5 @@
 import { useAppDispatch } from "@/store/hooks";
-import { Button } from "../ui/button";
+import { Button } from "@/components/ui/button";
 import { addItem } from "@/store/cart/cartSlice";
 
 type serviceItem = {

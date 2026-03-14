@@ -1,5 +1,5 @@
 import NextImage from "next/image";
-import ServiceItem from "../card/service-item";
+import ServiceItem from "@/components/card/service-item";
 export default function ServiceSection({ title, items, image, reverse }: any) {
   return (
     <section className="py-20">

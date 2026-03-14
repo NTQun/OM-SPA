@@ -4,8 +4,6 @@ import { services } from "@/data/service.data";
 import ServiceSection from "@/components/layout/service-section";
 import { cn } from "@/lib/utils";
 import NextImage from "next/image";
-import TestimonialSection from "@/components/layout/testimonial-section";
-import CartPanel from "@/components/card/cart-panel";
 
 const nav = [
   { label: "GÓI COMBO", value: "combo" },

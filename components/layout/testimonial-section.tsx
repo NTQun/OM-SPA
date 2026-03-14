@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { testimonials } from "@/data/testimanial.data";
-import ReviewCard from "../card/review-card";
+import ReviewCard from "@/components/card/review-card";
 
 export default function TestimonialSection() {
   return (

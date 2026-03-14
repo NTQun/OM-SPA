@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 import { useAppDispatch } from "@/store/hooks";
 import { setCartFromApi } from "@/store/cart/cartSlice";
 import { cartService } from "@/service/cart.service";
-import CartPanel from "../card/cart-panel";
+import CartPanel from "@/components/card/cart-panel";
 import { openCart } from "@/store/ui/uiSlice";
-import BookingPanel from "../ui/booking-panel";
+import BookingPanel from "@/components/ui/booking-panel";
 const nav = [
   { href: "#home", label: "Trang chủ" },
   { href: "#about", label: "Giới thiệu" },
