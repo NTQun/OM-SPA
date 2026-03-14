@@ -4,7 +4,7 @@ import SidePanel from "@/components/ui/side-panel";
 import { RootState } from "@/store";
 import { closeBooking, openSuccess } from "@/store/ui/uiSlice";
 import { useDispatch, useSelector } from "react-redux";
-import { Button } from "./button";
+import { Button } from "@/components/ui/button";
 import { bookingTimes, generateBookingDays } from "@/lib/utils";
 
 import { useForm } from "react-hook-form";

@@ -3,11 +3,11 @@ import { Geist, Geist_Mono, Playfair_Display } from "next/font/google";
 import { ToastProvider } from "@/hook/toast";
 import Footer from "@/components/layout/footer";
 import Header from "@/components/layout/header";
-import "./globals.css";
+import "@/app/globals.css";
 import TestimonialSection from "@/components/layout/testimonial-section";
 import BookingSection from "@/components/layout/booking-section";
-import Providers from "./provider";
 import BookingSuccess from "@/components/card/booking-success";
+import Providers from "@/app/provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
